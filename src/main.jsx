@@ -4,6 +4,7 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
 
+import './global.css'
 
 // import { PI as numeroPi, GTM_BRASIL as horarioBrasilia } from './teste'
 // //importado usando export default
